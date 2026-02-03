@@ -45,7 +45,7 @@ The QR code is displayed instantly on the screen
 
 Clone the repository
 
-git clone https://github.com/your-username/QR-Code-Generator.git
+git clone https://github.com/Ankurchoudhary75/QR-Code-Generator.git
 
 
 Open the project folder
